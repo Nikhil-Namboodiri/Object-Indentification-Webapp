@@ -1,0 +1,18 @@
+.heading{
+    font-size: 40px;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    padding-left: 5px;
+}
+.link{
+    align-items: center;
+    margin-top: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+    font-size: 25px;
+}
+body{
+    background-position: center;
+    background-size: contain;
+}
